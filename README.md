@@ -52,3 +52,4 @@ git clone https://github.com/longuetbriandavid/PredictionDuPrixDesLogements.git
 Prédiction_du_prix_des_logements.ipynb
 1. Exécuter le notebook cellule par cellule?
 
+Vous pouvez également retrouver le modèle utilisé dans le dépôt ; il vous suffira de le charger. 
