@@ -47,7 +47,7 @@ Cela permet d'utiliser directement la régression pour des prédictions en produ
 
 # Comment exécuter le projet
 1. Cloner le dépôt :
-git clone
+git clone https://github.com/longuetbriandavid/PredictionDuPrixDesLogements.git
 1. Ouvrir le fichier dans google colab:
 Prédiction_du_prix_des_logements.ipynb
 1. Exécuter le notebook cellule par cellule?
