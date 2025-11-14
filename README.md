@@ -41,7 +41,7 @@ Le notebook présente un exemple illustrant :
 
 # Sauvegarde du modèle
 Le projet montre également comment :
-- Enregistrer un modèle déjà entraîné
+- Enregistrer un modèle déjà entraîné (joblib)
 - Le recharger plus tard sans réentraînement
 Cela permet d'utiliser directement la régression pour des prédictions en production ou dans une application intégrée.
 
